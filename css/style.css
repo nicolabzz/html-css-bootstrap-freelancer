@@ -1,7 +1,32 @@
-/* colors */
-.ms_2CE50 { background-color: #2C3E50; }
+/* backgrounds colors */
+.ms_bgc2C3E50 {
+    background-color: #2C3E50;
+}
 
-.ms_1ABC9C { background-color: #1ABC9C; }
+.ms_1ABC9C {
+    background-color: #1ABC9C;
+}
+
+.ms_3A546D {
+    background-color: #3A546D;
+}
+
+
+/* text color */
+.ms_txt2C3E50 {
+    color: #2C3E50;
+}
+
+.ms_txt1ABC9C {
+    color: #1ABC9C;
+}
+
+/* border color */
+.ms_br2C3E50 {
+    border: #2C3E50;
+    height: 3px;
+}
+
 
 /* stuffs */
 .xx-large{
@@ -10,4 +35,19 @@
 
 .px-100 {
     padding: 0 120px;
+}
+
+.ms_form.form-control{
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(155, 155, 155);
+    border-left: none; 
+    border-radius: unset;
+}
+
+.ms_line-align {
+    display: inline-block;
+    width: 33px;
+    text-align: center;
+    line-height: 30px;
 }
