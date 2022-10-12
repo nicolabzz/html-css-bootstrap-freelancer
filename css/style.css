@@ -1,20 +1,7 @@
-/* header */
-.ms_bghead {
-    background-color: #2C3E50;
-}
-
-.ms_gbstart {
-    background-color: #1ABC9C;
-}
-
 /* colors */
-.ms_text_2CE50 {
-    color: #2C3E50;
-}
+.ms_2CE50 { background-color: #2C3E50; }
 
-.ms_hr_2CE50 {
-    background-color:#2C3E50;
-}
+.ms_1ABC9C { background-color: #1ABC9C; }
 
 /* stuffs */
 .xx-large{
